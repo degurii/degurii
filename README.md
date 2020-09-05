@@ -1,5 +1,5 @@
-### Hi there 👋
-
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=degurii)](https://solved.ac/realhongik)&nbsp;&nbsp;![WHO-A-U's github stats](https://github-readme-stats.vercel.app/api?username=degurii&show_icons=true) 
 <!--
 **degurii/degurii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
