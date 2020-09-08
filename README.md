@@ -2,7 +2,7 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=degurii)](https://solved.ac/realhongik)
 
 
-![WHO-A-U's github stats](https://github-readme-stats.vercel.app/api?username=degurii&show_icons=true) 
+![degurii's github stats](https://github-readme-stats.vercel.app/api?username=degurii&show_icons=true) 
 
 
 😭 버러지 탈출 기원
