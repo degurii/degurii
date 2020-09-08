@@ -1,5 +1,5 @@
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=degurii)](https://solved.ac/realhongik)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=degurii)](https://solved.ac/degurii)
 
 
 ![degurii's github stats](https://github-readme-stats.vercel.app/api?username=degurii&show_icons=true) 
