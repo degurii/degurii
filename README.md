@@ -1,5 +1,5 @@
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=degurii)](https://solved.ac/degurii)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=degurii&show_icons=true&theme=cobalt) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=degurii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 🐛🐛 버러지 탈출 기원 🐛🐛
