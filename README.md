@@ -1,4 +1,4 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=degurii&show_icons=true&theme=cobalt) 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=degurii&show_icons=true) 
 
 프론트 개발자가 되고싶어요..
 <!--
